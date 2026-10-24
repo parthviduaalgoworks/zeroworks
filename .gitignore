@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.tempo_credentials.json
+tempo_exports/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
